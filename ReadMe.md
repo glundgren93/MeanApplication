@@ -12,5 +12,8 @@ Here's the basic workflow:
 	Import collection
 	[C:\Program Files\MongoDB\bin]		mongoimport --db gabriel --collection todos --file C:\Users\glund_000\Desktop\primer-dataset.json
 
+	Start Server
+	[Mean]								node server.js
+
 ```
 
